@@ -1,0 +1,308 @@
+You are due to hold a speech at the annual gathering of the Navy League. What will be the gist of your speech?;99;;;;27;1900;1935
+The seas should be kept peaceful for the prosperity of all nations.;-1;-1;-1;10;0
+We are prepared to safeguard the interests of our nation against any threat that may arise.;0;0;1;10;0
+The freedom of the seas is threatened by the imperialistic ambitions of XX.;1;1;2;8;0
+A colonial crisis with XX has arisen. You are asked for recommendations. What is your advice to the Government?;9;;;;0;1900;1940
+We must safeguard our interests, and if it leads to war, we are prepared to fight it!;1;1;3;99;0
+It would be best to avoid a war right now, but prepare for future conflicts by strenghtening the navy.;2;0;1;99;0
+We are not ready for war and should make concessions to avoid escalating the tensions.;1;-1;-1;99;0
+There has been an uprising in an African country in the focus of great power colonial ambitions. We need to send a force to evacuate our nationals and protect our interests. What size should the expeditionary force be?;99;;;;0;1900;1999
+A gunboat.;0;0;1;10;0
+A cruiser.;0;1;2;10;30
+A battleship.;1;2;3;10;31
+The YY has made an ill-considered statement about XX. What is your response when asked by a foreign journalist?;9;;;;3;1900;1999
+Try to explain that the quote was taken out of context.;1;-1;0;99;0
+You will not comment on policy issues. ;0;0;1;99;0
+Agree wholeheartedly with the YY.;1;1;2;99;0
+A disarmament conference is being held in the Hague. What is your recommendations for the delegation?;99;;;;0;1900;1999
+We should not be limited in our national security by any restrictions imposed on us.;0;1;1;10;0
+Keep up an appearance of being reasonable, but don't agree to anything binding.;0;0;0;10;40
+We can live with reductions and disarmament, as long as it applies fairly and proportionally to all nations.;-1;-1;-2;10;41
+XX appears to be considering a naval rearmament programme. The Government asks for your advice on how to react?;13;;;;0;1900;1999
+We should condemn the adventurous policies of XX and strengthen our own navy.;2;1;2;99;0
+Their ships are no threat to our better equipped and trained navy.;0;0;1;99;0
+We could always complain at the next disarmament conference.;0;-1;-1;99;0
+There has been a political murder in the Balkans. What is your advice on how to handle the crisis?;99;;;;0;1900;1950
+Demand that the guilty are brought to justice, even at the risk of war.;1;1;2;10;0
+There should be a diplomatic solution to the crisis.;1;-1;1;10;0
+Nations stupid enough to put their fingers in the Balkan fire should realise that they can get burned.;0;0;1;10;0
+A world cruise for our young cadets is planned. What ships should take part?;99;;;;0;1900;1999
+Some of our newest and most powerful ships.;0;1;1;10;0
+Some average ships.;0;0;0;10;0
+Some of our oldest ships.;1;-1;0;10;0
+A new hawkish Government wants to raise armament expenditure. What is your reaction?;99;;;;26;1900;1999
+Excellent! This will ensure the safety of our nation.;2;0;2;10;0
+A strong navy is the gaurantee of peace, but it must be coupled with careful diplomacy.;1;0;1;10;0
+We should be careful not to raise international tensions right now.;0;-1;0;10;0
+A new liberal Government wants to reduce arms expenditures. What is your reaction?;99;;;;11;1900;1999
+This will spell doom for our proud nation! We will be at the mercy of other nations that are better prepared.;0;0;1;10;0
+We can live with this, provided that our foreign policy is tempered and responsible.;-1;0;-1;10;11
+This is good. The world needs a pause from rampant military spending.;-2;-1;-2;10;11
+One of our major arms manufacturers wants to enter a technology sharing agreement with a company in XX. Is this advisable?;9;;;;0;1900;1999
+Never! We cannot risk that vital technology is exposed to a potential enemy.;0;0;1;99;0
+Cooperation will benefit both our nations.;0;0;-1;99;1
+;;;;;0
+A major foreign policy crisis has erupted with XX. What is your advice on how to handle the situation?;9;;;;17;1900;1999
+If war is to come, it might just as well come now!;2;1;4;99;0
+We should act to safeguard our interests, but in a responsible and proportional way.;1;0;2;99;0
+We should be prepared to make compromises to avoid antagonising XX.;0;-1;1;99;0
+A change of government in XX has the potential to reduce tensions between our nations. You are asked to comment by a major newspaper.;9;;;;14;1900;1999
+Fair words, but the policies of XX always has and always will be a threat to world peace and stability.;1;1;1;99;0
+We will observe developments carefully and see what comes of it.;0;0;-1;99;0
+This is great news! Our two nations need to have better and more trustful cooperation.;-1;0;-2;99;0
+XX has proposed a five year security arrangement between our nations. What is your advice on how to respond?;9;;;;13;1900;1999
+We should enter such an agreement. This can benefit both of us.;-2;0;-2;99;2
+We should seek broader arrangments to take the interests of all nations into account.;-1;0;-1;10;0
+We should avoid entanglements that will tie our foreign policy to an irresponsible and dangerous nation!;1;0;1;99;0
+There has been a rebellion in the X2 possession of ;9;;;;25;1900;1999
+We should support the rebels to create trouble for XX.;0;0;1;99;26
+We should not involve ourselves in this.;0;0;0;99;25
+Such unpleasantries could be contagious. We should help XX to root out the rebels.;0;0;-1;99;27
+After a naval visit by XX, you are asked by a journalist to comment on the visiting ships.;9;;;;0;1900;1999
+We are impressed by their well built and advanced ships with smart looking crews and dashing and intelligent officers.;0;-1;-1;99;0
+We are happy to have hosted these fine ships with their friendly crews.;0;0;0;99;0
+These rust buckets with indifferently trained sailors and indolent officers are no match for our navy.;0;1;1;99;0
+The Government is concerned about tensions leading to war. You have been called to give advice. What do you recommend?;;;;;0;1900;1999
+We should call an international disarmament conference to reduce tensions.;-1;0;-1;10;40
+If you want peace, arm for war! We should spend more on the navy. ;1;0;1;10;0
+We should safguard our interests by negotiating an agreement with XX.;0;0;0;8;2
+The YY has made a foreign policy gaffe. You are asked to smooth things over by the naval secretary.;99;;;;3;1900;1999
+I would never presume to undercut the authority of the YY.;0;1;1;10;0
+Agree to make a bland statement diluting the effects of the remark made by the YY.;0;-1;0;10;0
+Divert attention by making a statement criticising the adventurous foreign policy of XX.;1;0;2;8;0
+An influential industrialist offers to support an increase in the naval budget if you will place a larger share of shipbuilding in his shipyards.;99;;;;24;1900;1999
+This will strengthen our navy at an important time.;1;-1;0;99;0
+This reeks of corruption. Such a thing would never enter my mind.;0;1;0;99;0
+;;;;;0
+The new naval secretary believes destroyers are the most important part of the navy. He wants you to build at least Z1 additional destroyers.;99;;;;4;1900;1999
+I will not let the navy be micromanaged in this way.;-1;-2;0;99;0
+Well, we do not really need that many, but we could build half that number of torpedo boat destroyers.;0;0;0;99;6
+Of course sir.;1;1;0;99;5
+The new naval secretary has read a book on naval strategy extolling cruiser warfare. He wants you to build at least Z2 additional cruisers.;99;;;;4;1900;1999
+I will not let the navy be micromanaged in this way.;-1;-2;0;99;0
+Well, we do not really need that many cruisers, but we could build half that number of cruisers.;0;0;0;99;8
+Of course sir.;1;1;0;99;7
+The YY wants battleships to increase our national prestige. He wants you to build Z3 additional battleships.;99;;;;4;1900;1946
+I will not let the navy be micromanaged in this way.;-1;-2;0;99;0
+Of course sir.;1;1;1;10;10
+;;;;;0
+One of our cruisers has run aground on the shore of a minor nation while performing an illicit intelligence operation. They threaten to impound the ship. What is our reaction?;99;;;;0;1900;1999
+Demand that they release the ship and send a strong squadron to underline the point.;0;1;2;10;0
+Offer sincere apologies fo the navigational error and offer compensation to make them release the ship.;0;-1;0;10;0
+Let them examine the ship, even if it risks exposing sensitive technology.;0;0;1;10;13
+During a coronation review there has been a collision between one of our ships and a ship from XX. What is your comment?;9;;;;0;1900;1999
+The accident was a result of clumsy maneuvering by the ill trained crew of the ship from XX.;0;0;1;99;0
+An unfortunate incident, but really nobodys fault.;0;-1;0;99;0
+;;;;;0
+A scandal involving some important dignitaries from XX has occured at a party given on a world cruise by one of your ships.How do you handle the incident?;9;;;;0;1900;1999
+Use it to embarrass XX.;0;0;1;99;0
+Hush it up.;0;0;-1;99;0
+;;;;;0
+An uprising in China makes it necessary to send an expeditionary force. What is your recommendation?;99;;;;0;1900;1950
+We must send a strong force to safeguard our interests.;0;1;1;10;30
+We should take part in a multinational force.;0;0;0;10;30
+We should keep out of foreign adventures.;0;0;-1;10;0
+The YY wants to hold an international naval gathering with a sailing regatta and competition. This will strengthen our international standing and lessen tensions, but the money to finance the event will be taken out of the naval budget. What is your reaction?;99;;;;0;1900;1999
+This is not a good time for such an event. All money needs to be allocated to buying warships.;0;0;0;10;0
+The navy supports this excellent initiative to foster international understanding.;0;1;-1;10;72
+;;;;;0
+A major arms firm wants to sell ships to a South American country. This will be good for our arms industry but risks leaking sensitive technology. What is your recomendation?;99;;;;0;1900;1999
+A strong arms industry is the foundation for a strong navy. Allow it.;300;0;0;99;13
+No, we cannot risk sensitive technology ending up in the hands of our enemies.;0;0;0;99;0
+;;;;;0
+The Government of XX suggests a mutual reduction in naval spending to reduce tension. What is your comment?;9;;;;17;1900;1999
+This is a ruse to get us to let down our guard.;0;0;1;99;0
+We should agree to the proposal in the interests of international peace and stability.;-2;0;-2;99;0
+We should host an international conference on reducing armaments;0;0;-1;99;40
+A revolution in an African country has left some of our nationals stranded. What do we do?;99;;;;0;1900;1999
+Send a strong squadron to bombard the capital until our citizens are released.;1;1;2;10;30
+Join an international squadron sent to contain the violence.;1;0;1;10;30
+Resolve the crisis via diplomatic means.;0;-1;-1;10;0
+During maneuvers, one of our ships has opened fire on a fishing boat from XX, sinking the boat and killing several fishermen. How do we react?;9;;;;0;1900;1999
+The boat was fishing in a restricted area, and they suffered the consequences of their carelessness.;0;0;1;99;0
+Offer full compensation and make a public apology.;0;-1;0;99;0
+;;;;;0
+One of our minor allies X3 is threatened by a neighbour. What policy do you recommend?;99;;;;0;1900;1999
+Back our ally unconditionally.;1;0;1;10;0
+Call an international peace conference.;0;0;-1;10;40
+Try to get our ally to back down and defuse the situation discreetly.;0;-1;-1;10;0
+A new Government wants to reduce naval spending in favour of social programmes. What is your comment?;99;;;;0;1900;1999
+Get the Navy League to protest against the proposal.;0;0;1;10;0
+Try to get the proposal watered down.;-1;0;0;99;0
+You are only the admiral, and the politicians are in charge.;-2;0;-1;10;11
+You are asked in an interview which nation you see as the most likely enemy in a future war. What is your answer?;99;;;;0;1900;1999
+We must be prepared to fight a war against any opponent.;1;0;1;10;0
+I don't see any risk of war in the near future.;-1;-1;-1;10;0
+It is without doubt XX.;1;0;1;8;0
+A regional war seems imminent X3. One of our major arms manufacturers wants to step up exports to the likely belligerents. What is your reaction?;99;;;;0;1900;1999
+We should avoid stoking the fires of war.;0;0;-1;10;0
+A strong arms industry is a gurantee of our national security. We should sell to anyone who wants to buy.;300;0;1;10;0
+;;;;;0
+Another round of fighting has broken out among several Balkan nations. What is your view?;99;;;;0;1900;1999
+It is deplorable that it seems impossible to stop the fighting in this region.;0;0;1;10;0
+I wonder what they are serving for dinner at the flag officer's mess?;0;0;1;10;0
+This is no doubt due to the meddling of XX.;0;0;2;8;0
+The Socialist party is doing well in opinion polls, and might want to press for reduced armament expenditure after the upcoming elections. What do you do?;99;;;;11;1900;1999
+Suppress all socialist propaganda in the navy.;0;0;0;99;12
+Meet with their leaders and talk about the importance of a strong navy to defend our political liberties.;0;-1;0;99;0
+Do nothing, it is a political matter after all.;-1;0;0;99;11
+The YY wants to reduce finance for the navy to build a new palace and a luxurious yacht for the head of state. What do you do?;;;;;15;1900;1935
+Of course. The navy will be happy to man the new yacht.;-1;1;0;99;0
+Protest energetically.;0;-1;0;99;0
+Enlist the help of the Navy League to derail the plans for a palace.;0;0;1;10;0
+The YY is asking if you can guarantee a victory over XX if war should come. What is your answer?;7;;;;17;1900;1999
+Our well trained navy will easily beat their collection of rusted old hulks!;0;1;1;99;0
+Not without additional funding.;1;-1;0;99;0
+;;;;;0
+The steel industry wants a stronger navy. They want you to help convince the YY to increase naval expenditure. What do you do?;99;;;;28;1900;1999
+Mention the importance of a strong navy and the steel industry for national well-being to the YY.;1;0;1;10;0
+Tell them the navy is not a tool for increasing their profits.;0;1;0;99;0
+;;;;;0
+XX has sent us an ultimatum. Unless we back down there will likely be war. What course of action do you recommend?;7;;;;16;1900;1999
+If they want to fight, we are ready for them.;2;;10;99;0
+We are not ready for war right now. We should back down.;1;-2;-1;99;0
+;;;;;0
+A sudden and unexpected foreign policy crisis has brought us to the brink of war with XX. What is your advice on how to handle the situation?;9;;;;17;1900;1905
+If they are intent on fighting, the navy is ready to do its duty!;2;1;10;99;0
+We should act to safeguard our interests, but be open for a negotiated settlement.;1;-1;4;99;0
+We should try to resolve the crisis peacefully, even if it means making concessions to XX.;0;-3;1;99;0
+A hawkish Government has come to power in XX. This has the potential to increase tensions between our nations. You are asked to comment by a major newspaper.;9;;;;17;1900;1999
+The policies of XX have always been unpredictable. We need to strengthen our navy to be prepared for anything .;1;1;2;99;0
+We will observe developments carefully and see what comes of it.;0;0;1;99;0
+This is a reason for concern.;0;0;1;99;0
+Our naval expenditure is ruinous! The Government wants to lower the naval budget drastically to balance the national budget. What is your response?;99;;;;18;1900;1999
+Protest vehemently.;-1;-1;0;99;0
+Enlist the help of the Navy League to make the case for a strong navy.;-1;0;1;99;0
+This is a political decision. The navy can only warn of the risks.;-2;0;0;99;0
+The Socialists in Parliament denounce the navy as a bastion of reaction, and manage to pass a bill reducing naval expenditure.;99;;;;21;1900;1999
+Lament over brandy and cigars with the other admirals that the socialists are a threat to national security.;-2;0;0;10;0
+Get the Navy League and press to emphasize the naval threats to our nation from other nations.;-1;0;1;99;0
+Suppress all socialist propaganda in the navy;-1;1;0;10;12
+Your prestige is running low. Naval influence is waning and the YY wants to divert funds to the army. What is your reaction?;;;;;20;1900;1999
+The naval situation is very tense. Reducing the naval budget now is not a good idea.;0;0;1;10;0
+The navy will do our best to live up to your expectations in the future.;-1;0;0;99;0
+;;;;;0
+The war party in Parliament demands immediate action against XX. What is your reaction?;7;;;;16;1900;1999
+An excellent idea!;1;1;10;99;0
+We should wait and provoke them subtly to be the aggressor, thus we will benefit from international opinion.;0;0;1;99;0
+We are not ready for war yet. Let us strengthen the navy and strike later.;1;-1;0;99;0
+The YY suggests preemptive war against XX. What is your reaction?;7;;;;29;1900;1999
+An excellent idea!;1;1;10;99;0
+We should wait and provoke them subtly to be the aggressor, thus we will benefit from international opinion.;0;0;1;99;0
+We are not ready for war yet. Let us strengthen the navy and strike later.;1;-1;0;99;0
+Boom times! There has been a windfall in tax revenues. What is your recommendation on how to spend the money?;99;;;;0;1900;1944
+Strengthen the navy.;100;1;1;10;0
+We should build railroads to increase the long term prosperity of the nation.;200;0;0;99;0
+We could start some modest social programmes.;100;-1;0;99;11
+A sudden slump in the economy has led to widespread unemployment and poverty as well as cutbacks in military spending. You are asked to advise on how to handle the situation.;99;;;;0;1900;1999
+Any further cuts in the navy budget are unacceptable considering the tense international situation.;-100;1;1;10;12
+Maybe the charities could institute some kind of relief for the poor?;-200;0;0;99;15
+The Government should consider social reforms to care for the unemployed.;-200;-1;0;99;11
+The trade unions are organising nationwide protests demanding social reforms and an end to militarism. The Government is asking your advice on how to handle the situation.;99;;;;22;1900;1999
+The rabble has no conception of the external threats facing our nation. Send out the police to scatter them.;0;1;0;99;12
+They are misled by firebrand leaders, but they will soon come to their senses.;0;0;0;99;0
+We should consider some modest social programmes, even if it affects the military budget.;-1;-1;0;99;11
+Protesting workers are turning up outside naval bases urging the sailors to join the revolution. What is your reaction?;99;;;;32;1900;1999
+Send out the marines to scatter them, using force if necessary!;0;1;0;99;12
+Hold an inspired speech to the protesters, pointing out the sacrifices necessary by all levels of society.;0;0;0;99;0
+Make an announcement that you will spend money on improving the living conditions of the sailors.;-1;-1;0;99;11
+There have been widespread demonstrations demanding peace and bread. The Government is seeking your advice.;99;;;;31;1900;1999
+This is not a time for complaints. They will just have to tighten their belts until we have secured victory.;0;1;0;99;12
+We should sound out the enemy Government for the possibility of a negotiated peace.;0;-2;0;99;50
+We should divert resources from the military to ensure basic living standards for the population.;-1;-1;0;99;11
+The enemy has sent out feelers through neutral nations about a negotiated peace without border changes or reparations. The YY wants to know your opinion.;99;;;;33;1900;1999
+We should not let them get off lightly. Continued operations will secure our total victory!;0;0;0;99;56
+The navy can fight on if needed.;0;0;0;99;51
+We should take the chance to end the war now.;0;-1;0;99;50
+The enemy has sounded us out about a negotiated peace with us gaining disputed border areas and some of their colonies. The YY wants to know your opinion.;99;;;;34;1900;1999
+We can secure even better terms if we crush them completely! A few more months will do it!;0;0;0;99;56
+We should not let them off cheaply. We should press for hard terms.;0;0;0;99;52
+These terms sound like a good basis for peace negotiations.;0;0;0;99;55
+The YY is considering sending out feelers for peace negotiations and wants to hear your advice on the strategic situation.;99;;;;35;1900;1999
+We cannot show weakness now! Peace negotiations are out of the question!;0;1;0;99;0
+We could see what the enemy will offer, but we should not accept ceding any land or colonial territory.;0;0;0;99;51
+We should negotiate now and secure a peace before our situation gets even worse.;0;-1;0;99;54
+Considering the dire war situation the Government is debating whether to seek peace. Your opinion on the strategic situation is sought.;99;;;;36;1900;1999
+We should fight on until we have secured victories that will give us leverage at the negotiating table.;0;1;0;99;0
+We should sound them out. If we can get realeatively lenient terms, we should accept a peace.;0;0;0;99;54
+The situation is desperate and we should seek whatever terms we can get.;0;-1;0;99;53
+The army wants more resources to prepare for an offensive that will shift the strategic initiative. The YY is asking for your opinion.;99;;;;40;1900;1999
+Only the navy can win this war! We should not waste resources on indecisive trench warfare.;0;0;0;99;60
+The navy can get by with less resources for a limited time, but the army had better deliver victory.;0;0;0;99;61
+;;;;;0
+The Government wants to put all effort into winning the war regardless of hardship caused for the population. What do you counsel?;99;;;;38;1900;1999
+Total war is the shortest war!;2;0;0;99;12
+We should strike a balance between military expenditure and caring for the population.;0;0;0;99;0
+Revolution from within is as dangerous as defeat on the battlefield. We should divert resources for social programmes.;-1;-1;0;99;11
+XX is taking advantage of our current preoccupation with the war to make unreasonable demands on disputed territories. What reaction do you recommend?;7;;;;38;1900;1999
+We cannot afford to show weakness now! We can fight them too if it comes to that!;1;1;2;99;0
+Start negotiating with them but try to drag it out.;0;0;1;99;0
+We cannot fight two enemies at once. We should give in to their demands, even if it hurts.;0;-1;-2;99;70
+The YY has returned from a state visit to XX, bringing home a proposal to solve outstanding sources of tension between our nations. What is your response when asked for advice?;7;;;;0;1900;1999
+We can never trust XX to keep agreements. Better arm for conflict and beat them soundly!;1;0;1;99;0
+We should take this opportunity to promote better undestanding between our nations!;-1;0;-2;99;0
+;;;;;0
+We have received an offer of peace from the enemy, but the conditions are rather harsh for us. The YY is asking for your advice.;99;;;;35;1900;1999
+We will not lay down our arms lightly. We should answer their insulting offer with steel;0;1;0;99;0
+Our situation is bad, and we need to take whatever offer we can get.;0;-1;0;99;53
+;;;;;0
+The intelligence service is considering offering safe passage for a revolutionary of some renown to his home country XX. This will foment revolution and may force them to the negotiating table. On the other hand, revolutions tend to be contagious. What do you recommend?;12;;;;31;1900;1935
+We should be careful about stoking the embers of revolution, it may well backfire.;0;-1;0;99;0
+Those revolutionaries can be as dangerous to us as to the enemy! Lock him up and throw away the key!;0;1;0;99;15
+Give him safe passage.;0;0;0;99;65
+The YY floats the idea of a shooting competition for all ships in the navy. He believes this will increase morale and combat readiness in the fleet. Holding such a competition will substantially increase maintenance costs this month.;99;;;;0;1900;1935
+With all respect, such competitions do not give training relevant to combat situations.;0;0;0;99;0
+An excellent idea! We will institute such a competition fortwith!;0;0;0;99;66
+;;;;;0
+This war is a terrible strain on our society. There is a very real risk of a popular uprising and the YY is considering offering the enemy a compromise peace. What is your response when asked for advice?;99;;;;37;1900;1999
+If we quit now our sacrifices will have been in vain! We should push on for just a little more to secure total victory!;0;1;0;99;0
+Yes, it is time to end the war if possible!;0;0;0;99;51
+;;;;;0
+One of our important dignitaries has been assassinated by a group of anarchists apparently supported by XX. What action would you recommend to the Government?;13;;;;17;1900;1999
+This is the excuse we need to put them in their place! Issue an ultimatum!;1;0;7;99;0
+We should act in a responsible and restrained manner. This crisis could well escalate to a world war!;1;-1;2;99;0
+;;;;;0
+Our ship SB1 has blown up under mysterious circumstances LL1. There are suspicions that saboteurs from XX might have been responsible. The conservative press is demanding action. What do you recommend?;13;;;;17;1900;1999
+This dastardly act cannot remain unavenged! This means war!;1;0;10;99;0
+We should calm things down and wait for an impartial investigation.;1;-2;2;99;0
+;;;;;0
+SB2 There are unfortunately no clues as to who might be behind this underhanded act. The hawk party is demanding resolute action. What do you recommend?;99;;;;10;1910;1999
+We should take this to the international court in the Hague.;0;-1;1;10;0
+Issue orders to sink any unidentified submarine close to our territorial waters.;0;0;2;10;0
+There is no doubt in my mind which nation is behind this lowly deed! We should issue an ultimatum to XX;1;1;7;8;0
+Some enterprising young officers in Naval Intelligence have hatched a plan to blow up one of the capital ships of XX at anchor. You are asked to give the plan the go ahead.;13;;;;17;1900;1999
+Such underhanded tactics are not in the tradition of our navy! I don't want to hear any more about such tricks!;0;0;0;99;0
+An excellent idea! These chaps are showing the right spirit!;0;0;0;99;20
+;;;;;0
+The new naval secretary believes submarines are the key to victory in a future war. He wants you to build at least Z1 additional submarines.;99;;;;5;1912;1999
+Submarines are underhand, unfair and damned un-X2!;-1;1;0;0;0
+We could perhaps build half that number of submarines as a start?;0;0;0;99;4
+Of course sir.;1;0;0;99;3
+The Government is considering making some symbolic concessions to XX to lower tension between our nations. What is your response when asked for advice?;7;;;;12;1900;1999
+We should not consider any  concessions, symbolic or not!;0;1;0;99;0
+We could try to lower tensions if it can be done without compromising our vital interests.;0;0;-1;99;0
+;;;;;0
+The Minister of the interior has raised concerns that the high naval expenditures might lead to increased social unrest. What is your response?;99;;;;23;1900;1999
+Bah! A strong navy will make the people proud!;0;0;0;99;0
+The navy could get by with a somewhat lower level of funding.;-1;0;0;99;0
+;;;;;0
+The YY floats the idea of trying to improve relations with XX by making some compromises on outstanding issues. What is your response when asked for advice?;7;;;;12;1900;1999
+Our national pride demands that we take a hard line. We should not compromise on anything!;0;1;0;99;0
+Yes, it is a good idea to try to lower tensions!;0;0;-1;99;0
+;;;;;0
+A new cruiser from XX has just arrived on a goodwill visit and the press is eagerly reporting all of its advanced features. A reporter approaches you for a comment. What do you say?;9;;;;0;1900;1999
+If you want to know why we don't have a ship like that, ask the politicians.;1;-1;0;99;0
+It is certainly a nice ship, but ours are just as good.;0;0;0;99;0
+If that is the best they can come up with, we have nothing to fear from XX.;0;1;1;99;0
+XX is sounding us out about an alliance. The YY thinks this can make it possible to save on defence expenditures. What is your response?;11;;;;13;1900;1999 
+This is an excellent idea! Together we can safeguard our interests!;-1;0;-2;99;2
+It would perhaps be better to call an international disarmament conference to reduce tensions.;0;0;-1;10;40
+We will be stronger alone, unencumbered by alliances that might heighten tensions!;0;0;1;99;0
+XX is hosting an international regatta and sail race. Our well trained crew is the favourite to win. What are their instructions?;9;;;;0;1900;1999
+Make sure they finish behind the host nation.;0;0;-1;99;0
+Go for the win!;0;1;1;99;0
+;;;;;0
+The ambassador from XX has approached the Minister of the Navy with a suggestion that we curb our naval programme in the interest of peace and stability. What answer do you recommend?;13;;;;12;1900;1999
+That would be tantamount to surrender! Our naval strength is a question of national honour and pride.;0;1;1;99;0
+We will not reduce our navy unilaterally. If they are that nervous about armaments, they could call a disarmament conference.;0;0;0;10;40
+A reduction of tensions would be welcome.;-1;0;-1;10;0
