@@ -1,0 +1,10 @@
+# Ignore everything except
+
+/*
+
+# files not to ignore
+!/.gitignore
+!/./Flags/ROC.bmp
+
+#Folders not to ignore
+!/Data/
