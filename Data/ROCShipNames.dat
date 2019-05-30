@@ -1,936 +1,1100 @@
 [BB]
-Michigan
-Delaware
-North Dakota
-Oklahoma
-Illinois
-New York
-Arizona
-Montana
-New Jersey
-Ohio
-Nevada
-California
-Colorado
-Wyoming
-Connecticut
-New Mexico
-Minnesota
-North Carolina
-Michigan
-Oregon
-South Carolina
-Kentucky
-Rhode Island
-Indiana
-Florida
-Washington
-Texas
-Alabama
-Georgia
-Idaho
-Massachusetts
-Pennsylvania
-Vermont
-Arkansas
-Missouri
-Utah
-Nebraska
-Wisconsin
-New Hampshire
-Iowa
-Kansas
-Louisiana
-Maine
-Maryland
-West Virginia
-Mississippi
-South Dakota
-Tennessee
-Virginia
+Anhui
+Beijing
+Chongqing
+Fujian
+Guangdong
+Gansu
+Guangxi
+Guizhou
+Henan
+Hubei
+Hebei
+Hainan
+Hong Kong
+Heilongjiang
+Hunan
+Jilin
+Jiangsu
+Jiangxi
+Liaoning
+Macau
+Mongolia
+Ningxia
+Qinghai
+Sichuan
+Shandong
+Shanghai
+Shaanxi
+Shanxi
+Tianjin
+Taiwan
+Xinjiang
+Tibet
+Yunnan
+Zhejiang
+Dingyuan
+Zhenyuan
+Chin-ou
+Kee Lung
+Su Ao
+Tso Ying
+Ma Kong
+Pingyuan
+Qinghe
+Huikang
+Changning
+Anji
+Qingyuan
+Zhongguo
+Zhenghe
 [BC]
-Lexington
-Saratoga
-Constellation
-Ranger
-Constitution
-Congress
-Independence
-Yorktown
-United States
-Essex
-Intrepid
-Franklin
-Ticonderoga
-Randolph
-Bunker Hill
-Bon Homme Richard
-Kearsarge
-Oriskany
-Princeton
-Lake Champlain
-Valley Forge
-Hawaii
-Alaska
+Hangzhou
+Kunming
+Ürümqi
+Lhasa
+Chengdu
+Taiyuan
+Jinan
+Xi'an
+Xining
+Yinchuan
+Shenyang
+Changchun
+Nanchang
+Nanjing
+Hohhot
+Changsha
+Wuhan
+Zhengzhou
+Harbin
+Shijiazhuang
+Haikou
+Guiyang
+Nanning
+Guangzhou
+Lanzhou
+Fuzhou
+Hefei
+Taipei
+Xiamen
+Shenzhen
+Dalian
+Qingdao
+Ningbo
 [CA]
-New York
-Brooklyn
-Rochester
-Pittsburgh
-Huntingdon
-San Diego
-Pueblo
-Frederick
-Huron
-Memphis
-Seattle
-Charlotte
-Salt Lake City
-Northampton
-Chester
-Louisville
-Houston
-Augusta
-Portland
-Indianapolis
-New Orleans
-Astoria
-Minneapolis
-Tuscaloosa
-Quincy
-Vincennes
-Philadelphia
-Savannah
-Nashville
-Phoenix
-Boise
-Honolulu
-Helena
-Missoula
-Pensacola
+Minzhu
+MinSheng
+Minquan
+Ch'ao-yung
+Yang-wei
+Chi-yuen
+Ching-yuen
+Lai-yuen
+Chih-yuen
+Ching-yuen
+P'ing-yuen
+K'ai-chi
+Nanchen
+Nanrui
+Kuang-chia
+Chaoho
+Chaowu
+Fupo
+Ch'enchang
+Paomin
+Kingching
+Nant'an
+Tungchi
+Haiyung
+Haichi
+Haitien
+Ninghai
+Pinghai
+Dongguan
+Wenzhou
+Quanzhou
+Foshan
+Wuxi
+Zibo
+Changzhou
+Taizhou
+Tangshan
+Nantong
+Zhongshan
+Huai'an
+Xuzhou
+Linyi
+Yangzhou
+Huizhou
+Anshan
+Huaibei
+Baotou
+Liuzhou
+Anyang
+Jilin City
+Putian
+Huainan
+Xiangtan
+Yantai
+Nanchong
+Luoyang
+Jiangmen
+Nanyang
+Baoding
+Fuyang
+Tai'an
+Suzhou
+Lu'an
+Datong
+Yancheng
+Zhanjiang
+Huangshi
+Qiqihar
+Weifang
+Changde
+Baoji
+Suqian
+Daqing
+Bozhou
+Handan
+Panjin
+Wenling
+Ma'anshan
+Zigong
+Fushun
+Mianyang
+Yingkou
+Yichang
+Heze
+Chifeng
+Guilin
+Xiangyang
+Xuchang
+Neijiang
+Zhaoqing
+Xinyang
+Liaocheng
+Maoming
+Jiaxing
+Zhenjiang
+Tianshui
+Ganzhou
+Qujing
+Wuhu
+Xingtai
+Jingzhou
+Bazhong
+Jining
+Zunyi
+Jinzhou
+Guigang
+Jinhua
+Hengyang
+Zhuzhou
+Lianyungang
+Ezhou
+Pingdingshan
+Qinhuangdao
+Benxi
+Wuwei
+Hezhou
+Dongying
+Yueyang
+Laiwu
+Bengbu
+Mudanjiang
+Xianyang
+Linfen
+Weihai
+Xinxiang
+Zaozhuang
+Kaifeng
+Shaoxing
+Jiamusi
+Suihua
+Langfang
+Jiaozuo
+Rizhao
+Zhoushan
+Yibin
+Dandong
+Panzhihua
+Anqing
+Huludao
+Shaoyang
+Binzhou
+Zhangzhou
+Fuxin
+Dezhou
+Yangjiang
+Tieling
+Liaoyang
+Puyang
+Yulin
+Jiujiang
+Taizhou
+Chuzhou
+Cangzhou
+Beihai
+Zhoukou
+Hegang
+Nanping
+Chaozhou
+Lishui
+Karamay
+Lijiang
+
+
 [CL]
-Chicago
-Baltimore
-San Francisco
-Olympia
-Cincinnati
-Raleigh
-Columbia
-Minneapolis
-Denver
-Des Moines
-Chattanooga
-Galveston
-Tacoma
-Juneau
-San Diego
-San Juan
-Oakland
-Reno
-Flint
-Tucson
-Spokane
-Fresno
-Cleveland
-St Louis
-Milwaukee
-Charleston
-Cleveland
-Montpelier
-Amsterdam
-Tallahassee
-Birmingham
-Mobile
-Pasadena
-Springfield
-Topeka
-New Haven
-Huntington
-Dayton
-Wilmington
-Biloxi
-Providence
-Manchester
-Buffalo
-Fargo
-Vicksburg
-Duluth
-Newark
-Miami
-Astoria
-Oklahoma City
-Little Rock
-Buffalo
-Wilkes-Barre
-Atlanta
-Crown Point
+Aibi Lake
+Ailik Lake
+Ayding Lake
+Bosten Lake
+Chaiwopu Lake
+Chang Lake
+Chao Lake
+Daye Lake
+Lake Dai
+Dian Lake
+Dagze Lake
+Dianshan Lake
+Dongqian Lake
+Dongting Lake
+East Lake
+Erhai Lake
+Futou Lake
+Gaoyou Lake
+Hong Lake
+Hongze Lake
+Houguan Lake
+Lake Huangqi
+Hulun Lake
+Liangzi Lake
+Longgan Lake
+Lu Lake
+Lumajangdong
+Lugu Lake
+Luoma Lake
+Manas Lake
+Nansi Lake
+Niushan Lake
+Pangong Tso
+Poyang Lake
+Qiandao Lake
+Qinghai Lake
+South Lake
+South Dongting Lake
+Lake Tai
+Tangxun Lake
+Tianchi Lake
+West Lake
+Wu Lake
+Xiliang Lake
+Xingkai Lake
+Ya'er Lake
+Yangcheng Lake
+Yandong Lake
+Yanxi Lake
+Yezhi Lake
+Zhangdu Lake
 [DD]
-Bainbridge
-Barry
-Chauncey
-Dale
-Decatur
-Hopkins
-Hull
-Lawrence
-Macdonough
-Paul Jones
-Perry
-Preble
-Stewart
-Truxtun
-Whipple
-Worden
-Smith
-Lamson
-Flusser
-Reid
-Paulding
-Drayton
-Roe
-Terry
-Perkins
-Sterett
-McCall
-Burrows
-Warrington
-Mayrant
-Monaghan
-Trippe
-Walke
-Ammen
-Patterson
-Fanning
-Jarvis
-Henley
-Beale
-Jouett
-Jenkins
-Cassin
-Cummings
-Downes
-Duncan
-Aylwin
-Parker
-Benham
-Balch
-O'Brien
-Nicholson
-Winslow
-McDougal
-Cushing
-Ericsson
-Tucker
-Conyngham
-Porter
-Wadsworth
-Jacob Jones
-Wainwright
-Sampson
-Rowan
-Davis
-Allen
-Wilkes
-Shaw
-Caldwell
-Craven
-Gwin
-Conner
-Stockton
-Philip
-Woolsey
-Evans
-Little
-Kimberly
-Sigourney
-Gregory
-Stringham
-Dyer
-Colhoun
-Stevens
-McKee
-Robinson
-Ringgold
-McKean
-Harding
-Gridley
-Fairfax
-Taylor
-Bell
-Stribling
-Murray
-Israel
-Luce
-Maury
-Lansdale
-Mahan
-Schley
-Champlin
-Mugford
-Chew
-Hazelwood
-Williams
-Crane
-Hart
-Ingraham
-Ludlow
-Rathburne
-Talbot
-Waters
-Dent
-Dorsey
-Lea
-Lamberton
-Radford
-Montgomery
-Breese
-Gamble
-Ramsay
-Tattnall
-Badger
-Twiggs
-Babbitt
-DeLong
-Jacob Jones
-Aaron Ward
-Hale
-Crowninshield
-Tillman
-Boggs
-Kilty
-Kennison
-Ward
-Claxton
-Hamilton
-Tarbell
-Yarnall
-Upshur
-Greer
-Roper
-Breckinridge
-Barney
-Blakeley
-Biddle
-Du Pont
-Bernadou
-Ellis
-Cole
-J. Fred Talbott
-Dickerson
-Leary
-Schenck
-Herbert
-Palmer
-Thatcher
-Walker
-Crosby
-Meredith
-Bush
-Maddox
-Foote
-Kalk
-Burns
-Anthony
-Sproston
-Rizal
-MacKenzie
-Renshaw
-O'Bannon
-Hogan
-Howard
-Stansbury
-Hopewell
-Thomas
-Haraden
-Abbot
-Bagley
-Clemson
-Dahlgren
-Goldsborough
-Semmes
-Satterlee
-Mason
-Graham
-Abel P. Upshur
-Hunt
-Welborn C. Wood
-George E. Badger
-Branch
-Herndon
-Dallas
-Chandler
-Southard
-Hovey
-Long
-Broome
-Alden
-Smith Thompson
-Barker
-Tracy
-Borie
-John D. Edwards
-Whipple
-Parrott
-Edsall
-MacLeish
-Simpson
-Bulmer
-McCormick
-Stewart
-Pope
-Peary
-Pillsbury
-John D. Ford
-Truxtun
-Paul Jones
-Hatfield
-Brooks
-Gilmer
-Fox
-Kane
-Humphreys
-McFarland
-James K. Paulding
-Overton
-Sturtevant
-Childs
-King
-Sands
-Williamson
-Bainbridge
-Goff
-Barry
-Hopkins
-Lawrence
-Belknap
-McCook
-McCalla
-Rodgers
-Osmond Ingram
-Bancroft
-Welles
-Aulick
-Turner
-Gillis
-Delphy
-McDermut
-Laub
-McLanahan
-Edwards
-Greene
-Ballard
-Shubrick
-Bailey
-Thornton
-Morris
-Tingey
-Swasey
-Meade
-Sinclair
-McCawley
-Moody
-Henshaw
-Meyer
-Doyen
-Sharkey
-Toucey
-Breck
-Isherwood
-Case
-Lardner
-Putnam
-Worden
-Flusser
-Dale
-Converse
-Reid
-Billingsley
-Charles Ausburn
-Osborne
-Chauncey
-Fuller
-Percival
-John Francis Burnes
-Somers
-Stoddert
-Reno
-Farquhar
-Thompson
-Kennedy
-Paul Hamilton
-William Jones
-Woodbury
-S. P. Lee
-Nicholas
-Young
-Zeilin
-Yarborough
-La Vallette
-Sloat
-Wood
-Shirk
-Kidder
-Selfridge
-Marcus
-Mervine
-Chase
-Robert Smith
-Mullany
-Coghlan
-Preston
-Lamson
-Bruce
-Hull
-Macdonough
-Farenholt
-Sumner
-Corry
-Melvin
-Litchfield
-Zane
-Wasmuth
-Trever
-Perry
-Decatur
-Hulbert
-Noa
-William B. Preston
-Preble
-Sicard
-Pruitt
-Farragut
-Dewey
-Hull
-Macdonough
-Worden
-Dale
-Monaghan
-Aylwin
-Porter
-Selfridge
-McDougal
-Winslow
-Phelps
-Clark
-Moffett
-Balch
-Mahan
-Cummings
-Drayton
-Lamson
-Flusser
-Reid
-Case
-Conyngham
-Cassin
-Shaw
-Tucker
-Downes
-Cushing
-Perkins
-Smith
-Preston
-Gridley
-Somers
-Craven
-Warrington
-Dunlap
-Fanning
-Bagley
-Blue
-[SSPrefix]
-S-
+
+ChangFeng
+Yiwu
+Tengzhou
+Jiangyin
+Changshu
+Dengzhou
+Cixi
+Pizhou
+Haicheng
+Rugao
+Zhangjiagang
+Yixing
+Fuqing
+Huazhou
+Dingzhou
+Zhuji
+Shouguang
+Yuzhou
+Zoucheng
+Zhucheng
+Taixing
+Zhangqiu
+Linhai
+Zaoyang
+Xiangcheng
+Qidong
+Danyang
+Wuchuan
+Feicheng
+Xinyi
+Haimen
+Jingjiang
+Aksu
+Altay
+Chen-pei
+Chen-pien
+Chen-tung
+Chen-nan
+Chen-hsi
+Chen-chung
+Ting-yuen i-hao
+Ting-yuen erh-hao
+Chen-yuen i-hao
+Chen-yuen erh-hao
+Fulong
+Jiexuen
+Kangji
+Weiyuan
+Mingjie
+Taian
+Zhenhai
+Caojiang
+Meiyun
+Linyun
+Ts'ao-chiang
+Ts'e-hai
+Wei-ching
+Hai-an
+Ching-yuan
+Yu-yuen
+Yuan-k'ai
+Teng-ying-chou
+Lung-hsiang
+Fei-t'ing
+Ts'e-tien
+Hu-wei
+Ch'ao-wu
+K'ang-chi
+Ch'eng-ch'ing
+Fu-hsing
+Chen-wei
+Fu-p'o
+Fei-yun
+Yang-wu
+Chi-an
+Yung-pao
+Ch'en-hang
+Chien-sheng
+Fu-sheng
+I-hsin
+Heng-hai
+Fu-ching
+Lei-hu
+Lei-lung
+Lei-tui
+Lei-kan
+Lei-ch'ien
+Lei-k'un
+Lei-li
+Lei-gen
+Lei-hsun
+Lei-chen
+Lei-chung
+Kuang-heng
+Kuang-li
+Kuang-yuan
+Kuang-chen
+Kuang-keng
+Kuang-hsing
+Kuang-chen
+Kuang-k'uei
+Kuang-i
+Kuang-ping
+Kuang-ting
+Chinou
+Chiangyuan
+Chu
+Kuanchuan
+Anfeng
+Lienching
+Chianghsi
+Chiangkung
+Yunghsian
+Wufeng
+Sui
+Anlan
+Tsehai
+Chingyuan
+Tsetian
+Sichew
+Haichingchang
+Haitunghung
+Kuanyuan
+Kuanwu
+Kuangchin
+Kuangching
+Chutai
+Chutung
+Chuchien
+Chuyu
+Chuyiu
+Chukuan
+Yungchien
+Yungchi
+Hsienning
+Yangsui
+Yatsen
+Yunghsiang
+Chienchung
+Haiyen
+Haifu
+Haiho
+Chiangtai
+Chiangfeng
+
+
 [AMC]
-Annie F. Conlon
-Kingfisher
-Annie Perry
-Lakemoor
-Antilles
-Rush
-Nebraskan
-Houston City
-Reliance
-Lake Owen
-Argonaut
-Floridan
-Lansford
-Margaret L Roberts
-Armenia
-Housatonic
-City of Memphis
-Dirigo
-Atlantic Sun
-Saetia
-Sydney B Atwood
-Montanan
-Perth Amboy
-Lake Michigan
-Onega
-Missourian
-Meark
-Henry Lippit
-City of Pensacola
-Aztec
-Alleghany
-Seward
-Olivet
-Plainfield
-City of Helena
-Barbara
-Holden Caulfield
-Owasco
-Buenaventura
-Caloria
-Red River
-Leelenaw
-City of Atlanta
-Massapequa
-Carl F. Cressy
-Margaret B Rouss
-Carmela
-Julia Frances
-Martin Murray
-Cubore
-Rizal
-Galena
-Covington
-Sylvania
-Dagny Taggart
-Columbian
-Zachary Baker
-Tampa
-Grace
-Gulflight
-Edna
-Fannie Prescott
+Ao (turtle)
+Bai Ze
+Baku
+Bashe
+Bixi
+Black Tortoise
+Chi
+Guardian lions
+Chollima
+Denglong
+Feng
+Fenghuang
+Four Perils
+Four Symbols
+Fox spirit
+Huli jing
+Hungry ghost
+Jiangshi
+Jin Chan
+Jinnalaluo
+Jueyuan
+Kalaviṅka
+Kui
+Lake Tianchi Monster
+Luan
+Mo
+Mogwai
+Moon rabbit
+Nian
+Nine-headed Bird
+Ox-Head
+Horse-face
+Panhu
+Peng
+Penghou
+Pixiu
+Qingniao
+Shangyang
+Shen
+Shennong
+Shōjō
+Taotie
+Three-legged crow
+Tiangou
+Tianma
+Wangliang
+Water monkey
+White Tiger
+Winged unicorn
+Xiangliu
+Xiao
+Xiezhi
+Xingtian
+Yeren
+Zhenniao
+Zouyu
+
+
+
+
+
 [CV]
-Langley
-Saratoga
-Lexington
-Ranger
-Yorktown
-Enterprise
-Wasp
-Hornet
-Essex
-Bunker Hill
-Intrepid
-Franklin
-Hancock
-Ticonderoga
-Bennington
-Shangri-La
-Randolph
-Bon Homme Richard
-Antietam
-Boxer
-Lake Champlain
-Franklin D Roosevelt
-Kearsarge
-Philippine Sea
-Valley Forge
-Oriskany
+Bai Chongxi
+Zhang Zhen
+Zhang Zhenn
+Zhang Chi
+Zhang Zhizhong
+Chang Enduo
+Zhang Fakui
+Zhang Fang
+Zhang Xuxing
+Zhang Xuzi
+Zhang Xuezhong
+Zhang Xueliang
+Zhang Gan
+Zhang Kexia
+Zhang Lingfu
+Zhang Shixi
+Zhang Zizhong
+Zhang Dulun
+Zhang Yan
+Zhang Yaoming
+Zhang Yinwu
+Zhao Chengshou
+Zhao Jiaxiang
+Zhao Xizhang
+Zhao Hong Wenguo
+Zhao Guoping
+Zhao Shoushan
+Zhao Dengyu
+Chen Anbao
+Chen Changjie
+Chen Cheng
+Chen Jitang
+Chen Jihuan
+Chen Gongxia
+Chen Mingren
+Chen Daqing
+Chen Tie
+Chen Wanren
+Chen Wenqi
+Zheng Tingzhen
+Zheng Tingji
+Cheng Qian
+Zheng Zuomin
+Zheng Dongguo
+Ji Zhangjian
+Ji Xingwen
+Qi Xueqi
+Jiang Zhiying
+Chiang Kai-Shek
+Jiang Guangnai
+Jiang Dingwen
+Jiang Yuzhen
+Jie Fang
+Chih Fengcheng
+Qin Yizhi
+Zhou Jiabin
+Zhou Zhidao
+Zhou Qingxiang
+Zhou Fu
+Zhou Fucheng
+Zhou Lan
+Zhou Yan
+Zhu Zhiyi
+Zhu Chi
+Zhu Huaibing
+Zhu Shaozhou
+Zhu Shaoliang
+Zhu Dingqing
+Zhu Qi
+Qiu Qingquan
+Qiu Kaiji
+Zhong Song
+Zhong Yi
+Daljaya
+Fan Hanjie
+Fang Jing
+Fang Xianjue
+Fang Shuhong
+Fang Tian
+Feng Anbang
+Feng Zhian
+Feng Shengfa
+Feng Qinzai
+Feng Yuxiang
+Fu Bingxun
+Fu Zuoyi
+Han Jun
+Han Fuqu
+Han Liancheng
+Hao Menglin
+He Jifeng
+He Zhuguo
+He Guoguang
+He Shaozhou
+He Weizhen
+He Wending
+He Yaozu
+He Yingqin
+Hou Jingru
+Xia Chuzhong
+Xia Guozhang
+Xia Wei
+Xiang Fengwu
+Xiao Jimian
+Xiao Zhichu
+Xiao Yisu
+Xu Jizhang
+Xu Jingtang
+Xu Rucheng
+Xu Guozhang
+Xu Tingyao
+Xu Zuyi
+Xu Yuanquan
+Xu Yongchang
+Xuan Tiewu
+Xue Yue
+Hu Changqing
+Hu Xianmei
+Hu Yibin
+Hu Ruoyu
+Hu Lian
+Hu Su
+Hu Zongnan
+Hu Ying
+Huang Zhenwu
+Huang Jie
+Huang Qixiang
+Huang Xiansheng
+Huang Guoliang
+Huang Meixing
+Huang Bamei
+Huang Botao
+Huang Shaohong
+Huang Tao
+Huang Qiaosong
+Huang Wei
+Huang Yongan
+Huo Kuizhang
+Rao Guohua
+Ji Chong Chon
+Rong Xiang
+Rong Youlüe
+Gan Lichu
+Kan Weiyong
+Gao Zhisong
+Gao Guizi
+Gao Kuiyuan
+Gao Shuxun
+Gao Shuangcheng
+Ge Xiancai
+Kim Hak-Keu
+Gu Zhenglun
+Gu Zhutong
+Gu Dinghua
+Guan Linzheng
+Gui Zezhun
+Gui Yongqing
+Kong Zongzhou
+Guo Chan
+Guo Jijiao
+Guo Jingyun
+Guo Xunqi
+Guo Rudong
+Guo Lüzhou
+Guo Zongfen
+Lai Chuanxiang
+Lee Beom Seok
+Lei Zhong
+Leng Xin
+Li Zhen
+Li Zhenqiu
+Li Jiayu
+Li Jue
+Li Chunnong
+Li Fuying
+Li Hanhun
+Li Xianzhou
+Li Yikuang
+Li Mi
+Li Minghao
+Li Mo'an
+Li Bifan
+Li Pinxian
+Li Tao
+Li Tianxia
+Li Zefen
+Li Zongren
+Li Wen
+Li Wentian
+Li Yannian
+Li Yutang
+Liang Jingzhai
+Liang Xixian
+Liao Lei
+Liao Lingqi
+Liao Yaoxiang
+Liao Yunzhou
+Liao Yunze
+Lin Wei
+Liu Anqi
+Liu Zhaoli
+Liu Zhendong
+Liu Jiaqi
+Liu Jiashu
+Liu Jianxu
+Liu Zhi
+Liu Heding
+Liu Xiang
+Liu Xing
+Liu Ruming
+Liu Kan
+Liu Guangji
+Liu Guiwu
+Liu Lianyi
+Liu Mao'en
+Liu Shiyi
+Liu Duoquan
+Liu Wei
+Liu Wenhui
+Luo Zhuoying
+Luo Guangwen
+Luo Lie
+Luo Lirong
+Luo Shuren
+Lobsang Tsewang
+Lü Zhanmeng
+Lu Junquan
+Lu Zhonglin
+Lu Han
+Lu Guangwei
+Lu Daoyuan
+Long Tianwu
+Long Yun
+Ma Zhanshan
+Ma Chongliu
+Ma Hongkui
+Ma Hongbin
+Ma Bufang
+Ma Shigong
+Ma Ying
+Ma Yuren
+Mao Bingwen
+Miao Peinan
+Mou Zhongheng
+Ou Zhen
+Ou Shounian
+Ba Yunying
+Pan Wenhua
+Pang Hanzhen
+Pang Bingxun
+Pei Changhui
+Peng Shiliang
+Shang Zhen
+Shangguan Yunxiang
+Shao Baichang
+Sheng Zhicai
+Sheng Wen
+Shi Jingting
+Shi Zude
+Shi Yousan
+Su Bingwen
+Su Zuxin
+Sun Zhen
+Sun Chu
+Sun Liren
+Sun Lianzhong
+Sun Mingjin
+Sun Du
+Sun Tongxuan
+Sun Weiru
+Sun Yuanliang
+Sung Zheyuan
+Sung Xilian
+Tai Anlan
+Tai Zhi
+Tai Li
+Tang Juwu
+Tang Embo
+Tang Huaiyuan
+Tang Shengzhi
+Tang Shizun
+Tao Zhiyue
+Tao Guang
+Deng Xihou
+Deng Baoshan
+Deng Dingyuan
+Tian Zhennan
+Ding Zhipan
+Cai Mengjian
+Cai Tingkai
+Zeng Zesheng
+Qin Lin
+Qin Dechun
+Zou Shaomeng
+Zou Zuohua
+Xu Yongchang
+Cun Xingqi
+Du Yuming
+Duan Yun
+Dong Qiwu
+Tong Linge
+Dong Zongshan
+Wu Jingbin
+von Falkenhausen
+Wan Fulin
+Wan Shitong
+Wan Yaohuang
+Wang Zhaozhi
+Wang Jiaben
+Wang Jianyue
+Wang Zhixi
+Wang Jingjiu
+Wang Jingzhi
+Wang Jingguo
+Wang Jingwei
+Wang Jun
+Wang Chunhui
+Wang Fengshan
+Wang Yizhe
+Wang Lingji
+Wang Lingyun
+Wang Mingzhang
+Wang Zuanxu
+Wang Dongyuan
+Wang Wanling
+Wang Yaowu
+Wang Yi
+Wei Zhen
+Wei Lihuang
+Wen Qiang
+Wu Jiguang
+Wu Qiwei
+Wu Chuikun
+Wu Peifu
+Wu Shaozhou
+Wu Shimin
+Yang Aiyuan
+Yang Jie
+Yang Hu
+Yang Hucheng
+Yang Botao
+Yang Bufei
+Yang Sen
+Yang Wei
+Yao Zhongying
+Ye Cheng
+Ye Peigao
+Yan Xishan
+Yi Anhua
+Yol Bars
+Yu Chengwan
+Yu Jishi
+Yuzhi Fenggang
+Chen Ce
+Chen Jiliang
+Chen Shaokuan
+Ji Zhangjian
+Xu Zushan
+Gao Xianshen
+Gui Yongqing
+Liu Yonggao
+Ouyang Ge
+Sa Shijun
+Shen Honglie
+Zeng Yiding
+Wang Shouting
+Zhang Tingmeng
+Chen Qixia
+Chen Qingyun
+Chennault
+Chen Ruitian
+Zhou Zhirou
+Xu Huansheng
+Huang Guangrui
+Huang Bingheng
+Gao Zhihang
+Khryukin
+Li Guidan
+Liang Tiancheng
+Liu Guoyun
+Liu Muqun
+Liu Zhesheng
+Liu Cuigang
+Mao Pangchu
+Qian Dajun
+Wang Guangfu
+Wang Tianxiang
+Yue Yiqin
+Li Shijia
+
+
+
 [CVL]
-Charger
-Copahee
-Nassau
-Santee
-Sangamon
-Altamaha
-Chenango
-Bogue
-Card
-Core
-Croatan
-Barnes
-Block Island
-Prince William
-Breton
-Long Island
-Suwannee
-Independence
-Belleau Wood
-Glacier
-Liscome Bay
-Carnegie
-Croatan
-Pybus
-Cowpens
-Mission Bay
-Monterey
-Cabot
-Natoma Bay
-Tripoli
-St. Lo
-White Plains
-Kalinin Bay
-Kasaan Bay
-Fanshaw Bay
-Kitkun Bay
-Gambier Bay
-Nehenta Bay
-Hoggatt Bay
-Kadashan Bay
-Marcus Island
-Petrof Bay
-Rudyerd Bay
-Saginaw Bay
-Sargent Bay
-Shipley Bay
-Sitkoh Bay
-Steamer Bay
-Cape Esperance
-Thetis Bay
-Takanis Bay
-Makassar Strait
-Windham Bay
-Makin Island
-Lunga Point
-Bismarck Sea
-Salamaua
-Hollandia
-Admiralty Islands
-Bougainville
-Matanikau
-Attu
-Roi
-Munda
-Commencement Bay
-Siboney
-Salerno Bay
-Hobart Bay
-Puget Sound
-Saidor
-Point Cruz
-Rendova
-Badong Strait
-Mindoro
-Palau
-Sicily
-Shamrock Bay
-Kwajalein
-San Jacinto
-Wright
+Amne Machin
+Badaling
+Paektu Mountain
+Baishi Mountain
+Baiyun Mountain
+Mount Beiwudang
+Bijia Mountain
+Bogda Peak
+Broad Peak
+Bukadaban Feng
+Mount Cangyan
+Chakragil
+Changla
+Chongtar Kangri
+Dahei Mountain
+Mount Danxia
+Daxue Mountain
+Dinghu Mountain
+Mount Dingjun
+Mount Du
+Dunheger
+Dunhong
+Mount Emei
+Mount Erlang
+Mount Everest
+Gasherbrum I
+Gasherbrum II
+Gasherbrum III
+Gasherbrum IV
+Gauri Sankar
+Geladaindong Peak
+Mount Genyen
+Mount Gongga
+Gora Alagordy
+Haba Xueshan
+Mount Heng
+Mount Hua
+Mount Huangbo
+Huangyajian Peak
+Khüiten Peak
+Hunhua Shan
+Jade Dragon Snow Mountain
+Jengish Chokusu
+Jiangjun Mountain
+Mount Jianglang
+Mount Jiuhua
+Mount Jizu
+Jongsong Peak
+K2
+Mount Kailash
+Kalamely Mountain
+Kangpenqing
+Kangto
+Kawagarbo
+Kezhen Peak
+Khartaphu
+Khumbutse
+Kitten Mountain
+Kongur Tagh
+Kubi Gangri
+Labuche Kang
+Langtang Ri
+Laojun Mountain
+Mount Langya
+Mount Lao
+Lhotse
+Mount Liang
+Lingtren
+Mount Lingyan
+Mount Li
+Liushi Shan
+Mount Longhu
+Lunpo Gangri
+Mount Luofu
+Mount Lu
+Makalu
+Mazong Mountain
+Mianzimu
+Mount Jinfo
+Mount Longmen
+Mount Mian
+Mount Mogan
+Muztagh Ata
+Nairamdal Peak
+Nyegyi Kansang
+Mount Pan
+Phu Si Lung
+Mount Pomiu
+Porong Ri
+Pumori
+Purple Mountain
+Mount Putuo
+Qianling Mountain
+Mount Qingcheng
+Qionglong Mountain
+Qixia Mountain
+Mount Qiyun
+Mount Sanqing
+Sauyr Zhotasy
+Shenguang Mountain
+Shennong Mountain
+Shiceng Dashan
+Shiren Mountain
+Siguang Ri
+Shishapangma
+Simian Mountain
+Skyang Kangri
+Mount Song
+Mount Taibai
+Mount Tai
+Mount Tangjia
+Tavan Bogd
+Teram Kangri
+The Crown
+Mount Tiandang
+Tianmen Mountain
+Tianmu Mountain
+Mount Tiantai
+Tiantangzhai
+Tianzhong Mountain
+Mount Tianzhu
+Tianzi Mountain
+Tomort
+Tuoshan
+Mount Wangwu
+Wugai Mountain
+Wunü Mountain
+Wushao Ling Mountain
+Mount Wutai
+Wutong Mountain
+Wuzhi Mountain
+Xiao Mountain
+Mount Xiqiao
+Mount Siguniang
+Mount Xuebaoding
+Xuelian Feng
+Yangmolong
+Yiwulü Mountain
+Yuelu Mountain
+Yun Mountain
+Yunlong Mountain
+Yuntai Mountain
+Yuzhu Peak
+Zhaobao Mountain
+Zimao Mountain
+Kunyu Mountain
+Changbai Mountains
+Mount Tian
+Huangshan
+
 [XX]
-Yukon
-Vinton
-Columbia
-Hamden
-Elmore
-Williamsfield
-Pinkerman
-Unity
-Snake
-Brazos
-Pecos
-James
-Ripley
-Bromer
-Valeene
-Kuskokwim
-Cumberland
-Yellowstone
-Bidwell
-Blackstone
-Milk
-Otwell
-Velpen
-Opdyke
-Dahlgren
-Bonfield
-Vermillion River
-Ouachita
-Gila
-Sheyenne
-Tanana
-Smoky Hill
-Kanakee
-Covell Creek
-Niobrara
-Sabine
-Oakdale
-Trinity
-Sheehan Island
-Wabash
-Chattahoochee
-Coosa
-Tilden
-Sparta
-Tallapoosa
-Tombigbee
-Conecuh
-Elk
-Cahaba
-Black Warrior
-Kaskaskia
-Olivet
-Rock
-Tiff
-Cadet
-Hayden
-Brays
-Stotuland
-Cedar Ridge
-Milford
-Galesburg
-Embarras
-Porcupine
-Latham
-Innoko
-Koyukuk
-Belmont
-Noatak
-Stilkine
-Colville
-Minneola
-Fowler
-Sublette
-Kendall
-Mt Auburn
-Dudgeon Lake
-La Porte
-Union Grove
-Garwin
-Green Mountain
-Liscomb
-St Anthouny
-Zearing
-Hickory Grove
-Shipley
-Ames
-Midvale
-Huxley
-Saylorville
-Pebble Beach
-Big Creek
-Beaver Creek
-Jordan Creek
-Earlham
-Dexter
-River Valley
-Hillcrest
-Sugar Creek
-Deer Run
-Wakonda
-Hyperion
-Kennard
-Tiburon
-Morse Bluff
-Elkhorn Ridge
-Loveland
-South Bend
-Plattsmouth Junction
-Warnerville
-Oakdale
-Sand Hills
-Centura Hills
-Gregory
-Black Hills
-Osage
-Sleepy Hollow
-Meadowlark
-Lance Creek
-Chugwater
-Fort Collins
-Crested Butte
-Canon City
-Durango
-Bayfield
-Glen Canyon
-Jacobs Lake
-Marble Canyon
-Stovepipe Wells
-Chowchilla
-Fall River
-Weed
-New Pine Creek
-Six Rivers
-Trout Lake
-Union Gap
-Ross Lake
-Merritt
-Spences Bridge
-Stein Valley
-Rivershore
-Shannon Lake
-Fairmont
-McMurphy
-Quesnel Forks
-Beaverhead
-Casper
-La Crosse
-Colusa
-Lamoine Valley
-Twin Oaks
-Golden Hills
-Macomb
-Bardolph
-Fiatt
-Ellisville
-Oak Run
+Feiying
+Kuangting
+Dogwai
+Hupeng
+Leilung
+LeiChien
+Chang
+Su
+Waining
+Weining
+Yungning
+Yungshen
+Jenshen
+Kuai
+Shi-34
+Yue-22
+Hupeng
+
+
+[DDPrefix]
+DD-
+[SSPrefix]
+SS- Hai
 [Aircraft manufacturers]
-Aerospace Industrial Development Corporation;AIDC
-CAMCO
-Martin
-Vought
-North American
-Republic
-Douglas
-Curtiss
-Lockheed
-Consolidated
-Brewster
+Aero Industrial Development Corporation;AIDC
+Central Aircraft Manufacturing Company;CAMCO
+Air Force Aircraft Manufacturing Factory;AFAMF
+Dading Engine Factory;Dading
+Chu
+China National Aviation Corporation;CNAC
+Tsing Hua Aeronautical Research Institute; TH
+Guangdong Flying Machines Corporation; PL
+Nanyuan Aviation Repair Factory;PSZ
+Navy Aircraft Engineering Bureau;BWZW-A
+Central Aviation School;CAS
+Dashatou Aircraft Repair Factory;DST
+Central Hengzhou Aircraft Factory;CH
+Central Nanchang Aircraft Factory;CN
+China Aerospace Equipment Manufacturer, LLC;CAE
+Aviation Engineering Bureau; AEB
+Third Aircraft Factory;Thi
 [Aircraft names]
-Crusader
-Seagull
-Fireball
-Vindicator
-Sea Wolf
-Buffalo
-Sentinel
-Widgeon
-Duck
-Electra
-Lodestar
-Ventura
-Harpoon
-Mars
-Vultee
-Hawk
-Airacobra
-Goshawk
-Aiaracomet
-Catalina
-Dolphin
-Buccaneer
-Privateer
-Hellcat
-Tigercat
-Dauntless
-Devastator
-Wildcat
-Tigercat
-Polecat
-Avenger
-Marauder
-Bolo
-Corsair
-Commando
-Coronado
-Helldiver
-Seamew
-Bearcat
-Nightingale
-Boomerang
-Thunderbolt
-Lancer
-Vanguard
-Shooting Star
-Dominator
-Invader
-Baltimore
-Maryland
-Mauler
-Destroyer
-Skyraider
-Thunderflash
+LeShiWen
+CK
+1
