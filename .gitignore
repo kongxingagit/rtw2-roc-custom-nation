@@ -1,0 +1,23 @@
+# Ignore everything except
+
+/*
+
+# files not to ignore
+!README.md
+
+!.gitignore
+
+#even if in sub directories
+!*/
+
+
+!*/Flags/ROC.bmp
+!*/Data/ROC.n00
+!*/Data/ROC.n20
+!*/Data/ROCShipNames.dat
+!*/Data/ROCWarInfo.dat
+!*/Data/ROCWarInfo20.dat
+
+
+
+#Folders not to ignore
