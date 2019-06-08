@@ -247,59 +247,59 @@ Lijiang
 
 
 [CL]
-Aibi Lake
-Ailik Lake
-Ayding Lake
-Bosten Lake
-Chaiwopu Lake
-Chang Lake
-Chao Lake
-Daye Lake
-Lake Dai
-Dian Lake
-Dagze Lake
-Dianshan Lake
-Dongqian Lake
-Dongting Lake
-East Lake
-Erhai Lake
-Futou Lake
-Gaoyou Lake
-Hong Lake
-Hongze Lake
-Houguan Lake
-Lake Huangqi
-Hulun Lake
-Liangzi Lake
-Longgan Lake
-Lu Lake
+Aibi Hu
+Ailik Hu
+Ayding Hu
+Bosten Hu
+Chaiwopu Hu
+Chang Hu
+Chao Hu
+Daye Hu
+Hu Hu 胡湖
+Dian Hu
+Dagze Hu
+Dianshan Hu
+Dongqian Hu
+Dongting Hu
+Dong Hu
+Erhai Hu
+Futou Hu
+Gaoyou Hu
+Hong Hu
+Hongze Hu
+Houguan Hu
+Huangqi Hu
+Hulun Hu
+Liangzi Hu
+Longgan Hu
+Lu Hu
 Lumajangdong
-Lugu Lake
-Luoma Lake
-Manas Lake
-Nansi Lake
-Niushan Lake
+Lugu Hu
+Luoma Hu
+Manas Hu
+Nansi Hu
+Niushan Hu
 Pangong Tso
-Poyang Lake
-Qiandao Lake
-Qinghai Lake
-South Lake
-South Dongting Lake
-Lake Tai
-Tangxun Lake
-Tianchi Lake
-West Lake
-Wu Lake
-Xiliang Lake
-Xingkai Lake
-Ya'er Lake
-Yangcheng Lake
-Yandong Lake
-Yanxi Lake
-Yezhi Lake
-Zhangdu Lake
-[DD]
+Poyang Hu
+Qiandao Hu
+Qinghai Hu
+Nan Hu
+NanDongting Hu
+Tai Hu
+Tangxun Hu
+Tianchi Hu
+Xi Hu
+Wu Hu
+Xiliang Hu
+Xingkai Hu
+Ya'er Hu
+Yangcheng Hu
+Yandong Hu
+Yanxi Hu
+Yezhi Hu
+Zhangdu Hu
 
+[DD]
 ChangFeng
 Yiwu
 Tengzhou
@@ -447,21 +447,24 @@ Chiangfeng
 
 
 [AMC]
-Ao (turtle)
+Ao
 Bai Ze
 Baku
 Bashe
 Bixi
-Black Tortoise
+Xuanwu
 Chi
-Guardian lions
+Shishi 石獅
 Chollima
 Denglong
 Feng
 Fenghuang
-Four Perils
+Sizui
+Gonggong
+Huandou
+Gun
+Sanmiao
 Four Symbols
-Fox spirit
 Huli jing
 Hungry ghost
 Jiangshi
@@ -470,13 +473,15 @@ Jinnalaluo
 Jueyuan
 Kalaviṅka
 Kui
-Lake Tianchi Monster
+Tianchisuigui
+Water Ghost
 Luan
+Ligui
 Mo
 Mogwai
-Moon rabbit
+Yuetu
 Nian
-Nine-headed Bird
+Jiufeng
 Ox-Head
 Horse-face
 Panhu
@@ -489,13 +494,11 @@ Shen
 Shennong
 Shōjō
 Taotie
-Three-legged crow
+Sanzuwu
 Tiangou
 Tianma
 Wangliang
-Water monkey
-White Tiger
-Winged unicorn
+Baihu
 Xiangliu
 Xiao
 Xiezhi
@@ -503,8 +506,10 @@ Xingtian
 Yeren
 Zhenniao
 Zouyu
-
-
+Nanhai
+Nanao
+Taiping
+Yangming
 
 
 
@@ -904,11 +909,11 @@ Li Shijia
 [CVL]
 Amne Machin
 Badaling
-Paektu Mountain
-Baishi Mountain
-Baiyun Mountain
+Paektu Shan
+Baishi Shan
+Baiyun Shan
 Mount Beiwudang
-Bijia Mountain
+Bijia Shan
 Bogda Peak
 Broad Peak
 Bukadaban Feng
@@ -916,10 +921,10 @@ Mount Cangyan
 Chakragil
 Changla
 Chongtar Kangri
-Dahei Mountain
+Dahei Shan
 Mount Danxia
-Daxue Mountain
-Dinghu Mountain
+Daxue Shan
+Dinghu Shan
 Mount Dingjun
 Mount Du
 Dunheger
@@ -943,28 +948,28 @@ Mount Huangbo
 Huangyajian Peak
 Khüiten Peak
 Hunhua Shan
-Jade Dragon Snow Mountain
+Jade Dragon Snow Shan
 Jengish Chokusu
-Jiangjun Mountain
+Jiangjun Shan
 Mount Jianglang
 Mount Jiuhua
 Mount Jizu
 Jongsong Peak
 K2
 Mount Kailash
-Kalamely Mountain
+Kalamely Shan
 Kangpenqing
 Kangto
 Kawagarbo
 Kezhen Peak
 Khartaphu
 Khumbutse
-Kitten Mountain
+Kitten Shan
 Kongur Tagh
 Kubi Gangri
 Labuche Kang
 Langtang Ri
-Laojun Mountain
+Laojun Shan
 Mount Langya
 Mount Lao
 Lhotse
@@ -978,7 +983,7 @@ Lunpo Gangri
 Mount Luofu
 Mount Lu
 Makalu
-Mazong Mountain
+Mazong Shan
 Mianzimu
 Mount Jinfo
 Mount Longmen
@@ -992,22 +997,22 @@ Phu Si Lung
 Mount Pomiu
 Porong Ri
 Pumori
-Purple Mountain
+Purple Shan
 Mount Putuo
-Qianling Mountain
+Qianling Shan
 Mount Qingcheng
-Qionglong Mountain
-Qixia Mountain
+Qionglong Shan
+Qixia Shan
 Mount Qiyun
 Mount Sanqing
 Sauyr Zhotasy
-Shenguang Mountain
-Shennong Mountain
+Shenguang Shan
+Shennong Shan
 Shiceng Dashan
-Shiren Mountain
+Shiren Shan
 Siguang Ri
 Shishapangma
-Simian Mountain
+Simian Shan
 Skyang Kangri
 Mount Song
 Mount Taibai
@@ -1017,38 +1022,38 @@ Tavan Bogd
 Teram Kangri
 The Crown
 Mount Tiandang
-Tianmen Mountain
-Tianmu Mountain
+Tianmen Shan
+Tianmu Shan
 Mount Tiantai
 Tiantangzhai
-Tianzhong Mountain
+Tianzhong Shan
 Mount Tianzhu
-Tianzi Mountain
+Tianzi Shan
 Tomort
 Tuoshan
 Mount Wangwu
-Wugai Mountain
-Wunü Mountain
-Wushao Ling Mountain
+Wugai Shan
+Wunü Shan
+Wushao Ling Shan
 Mount Wutai
-Wutong Mountain
-Wuzhi Mountain
-Xiao Mountain
+Wutong Shan
+Wuzhi Shan
+Xiao Shan
 Mount Xiqiao
 Mount Siguniang
 Mount Xuebaoding
 Xuelian Feng
 Yangmolong
-Yiwulü Mountain
-Yuelu Mountain
-Yun Mountain
-Yunlong Mountain
-Yuntai Mountain
+Yiwulü Shan
+Yuelu Shan
+Yun Shan
+Yunlong Shan
+Yuntai Shan
 Yuzhu Peak
-Zhaobao Mountain
-Zimao Mountain
-Kunyu Mountain
-Changbai Mountains
+Zhaobao Shan
+Zimao Shan
+Kunyu Shan
+Changbai Shans
 Mount Tian
 Huangshan
 
@@ -1075,7 +1080,10 @@ Hupeng
 [DDPrefix]
 DD-
 [SSPrefix]
-SS- Hai
+Hailung-
+Haibao-
+Haihu-
+Haishi-
 [Aircraft manufacturers]
 Aero Industrial Development Corporation;AIDC
 Central Aircraft Manufacturing Company;CAMCO
