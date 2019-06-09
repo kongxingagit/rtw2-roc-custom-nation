@@ -1,6 +1,6 @@
 # Ignore everything except
 
-/*
+*
 
 # files not to ignore
 !README.md
@@ -17,6 +17,16 @@
 !*/Data/ROCShipNames.dat
 !*/Data/ROCWarInfo.dat
 !*/Data/ROCWarInfo20.dat
+
+# Now Play as Japan and fight the ROC!
+# We probably need better naming conventions for alternate matchups
+
+!*/Data/Japan2.n00
+!*/Data/Japan2.n20
+!*/Data/Japan2ShipNames.dat
+!*/Data/Japan2WarInfo.dat
+!*/Data/Japan2WarInfo20.dat
+
 
 
 
